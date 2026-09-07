@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Python_AWS_Cloud9": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

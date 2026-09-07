@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YP7S9G9aL88=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JLO\\Downloads\\Python_AWS_Cloud9\\Python_AWS_Cloud9\\Python_AWS_Cloud9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JLO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
